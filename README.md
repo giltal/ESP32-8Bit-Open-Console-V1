@@ -23,7 +23,7 @@ All supported projects can be complied on Arduino SDK or under Visual Studio wit
 
  
 Preparing the SD card:
-<img src="/ESP32-8Bit-Open-Console-V1/SDcard.jpg" alt="SD card Cont."/>
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/SDcard.jpg" alt="SD card Cont."/>
  
 
 The ESP32_TV_EMU_AtariNES.bin and ESP32_TV_EMU_SMS.bin can be copied from the project directory or just copy them from this GIT.
