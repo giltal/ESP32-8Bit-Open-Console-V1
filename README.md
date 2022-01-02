@@ -43,3 +43,6 @@ All parts can be purchased on AliExpress.
 Feel free to address me for any support issues 😊
 
 gillytal@gmail.com
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/ESP32_8BitConsV1_1.JPG" alt="Image 1"/>
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/ESP32_8BitConsV1_2.JPG" alt="Image 2"/>
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/ESP32_8BitConsV1_3.JPG" alt="Image 3"/>
