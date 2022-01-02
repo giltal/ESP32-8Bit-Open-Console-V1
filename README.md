@@ -28,7 +28,7 @@ Preparing the SD card:
 
 The ESP32_TV_EMU_AtariNES.bin and ESP32_TV_EMU_SMS.bin can be copied from the project directory or just copy them from this GIT.
 
-To use the USB ports you will need to work through this GIT link (https://github.com/atc1441/CH559sdccUSBHost, and replace the main.c file from this GIT), you will need to prepare a USB cable to connect your PC to the platform in which D+\D- are crossed and the 5V is disconnected.
+To use the USB ports you will need to work through this GIT link (https://github.com/atc1441/CH559sdccUSBHost, and replace the files from this GIT's CH559 Lib), you will need to prepare a USB cable to connect your PC to the platform in which D+\D- are crossed and the 5V is disconnected.
 
 You will also need few Arduino libraries also located on my GIT.
 
