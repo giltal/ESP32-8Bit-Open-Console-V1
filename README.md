@@ -22,7 +22,8 @@ This updated platform also emulates Gameboy, Atari 2600 and ZX48 (ZX48 has issue
 All supported projects can be complied on Arduino SDK or under Visual Studio with Visual Micro plug-in.
 
  
-Preparing the SD card: (look at the RTF file)
+Preparing the SD card:
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/SDcard.jpg" alt="SD card Cont."/>
  
 
 The ESP32_TV_EMU_AtariNES.bin and ESP32_TV_EMU_SMS.bin can be copied from the project directory or just copy them from this GIT.
