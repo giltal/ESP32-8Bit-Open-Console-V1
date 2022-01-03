@@ -1,4 +1,4 @@
-# ESP32-8Bit-Open-Console-V1 (Look at the RTF file for a better  view)
+# ESP32-8Bit-Open-Console-V1
 
  ESP32 based 8-bit gaming TV console
 
@@ -28,7 +28,7 @@ Preparing the SD card:
 
 The ESP32_TV_EMU_AtariNES.bin and ESP32_TV_EMU_SMS.bin can be copied from the project directory or just copy them from this GIT.
 
-To use the USB ports you will need to work through this GIT link (https://github.com/atc1441/CH559sdccUSBHost, and replace the main.c file from this GIT), you will need to prepare a USB cable to connect your PC to the platform in which D+\D- are crossed and the 5V is disconnected.
+To use the USB ports you will need to work through this GIT link (https://github.com/atc1441/CH559sdccUSBHost, and replace the files from this GIT's CH559 Lib), you will need to prepare a USB cable to connect your PC to the platform in which D+\D- are crossed and the 5V is disconnected.
 
 You will also need few Arduino libraries also located on my GIT.
 
@@ -43,3 +43,6 @@ All parts can be purchased on AliExpress.
 Feel free to address me for any support issues 😊
 
 gillytal@gmail.com
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/ESP32_8BitConsV1_1.JPG" alt="Image 1"/>
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/ESP32_8BitConsV1_2.JPG" alt="Image 2"/>
+<img src="https://github.com/giltal/ESP32-8Bit-Open-Console-V1/blob/main/ESP32_8BitConsV1_3.JPG" alt="Image 3"/>
