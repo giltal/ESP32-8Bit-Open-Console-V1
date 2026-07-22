@@ -1,3 +1,4 @@
+**The same HW platform now have a new much improved FW, please look at: RetroESP32_SVIDEO on my GitHub**
 # ESP32-8Bit-Open-Console-V1
 
  ESP32 based 8-bit gaming TV console
